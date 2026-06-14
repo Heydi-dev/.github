@@ -147,7 +147,11 @@ AI가 실시간 음성 대화를 통해 공감하고 질문하며
 ![FIREBASE](https://img.shields.io/badge/FIREBASE_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### AI
-
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
+![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GEMINI](https://img.shields.io/badge/GEMINI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![PYTEST](https://img.shields.io/badge/PYTEST-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ---
 
